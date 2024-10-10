@@ -93,7 +93,7 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-os.system('xdg-open https://www.facebook.com/profile.php?id=100077270866235&mibextid=kFxxJD')
+os.system('xdg-open https://t.me/Abdullha_404')
 #__________________[ SYS ]__________________#
 import base64
 exec(base64.b64decode(b'I19fX19fX19fX19fX19fX19fX1sgU1lTIF1fX19fX19fX19fX19fX19fX18jCnN5cy5zdGRvdXQud3JpdGUoJ1x4MWJdMjsp8J+ltUpPTkktU0lORyBQQUlEIFRPT0zwn6W1XHgwNycp'))
